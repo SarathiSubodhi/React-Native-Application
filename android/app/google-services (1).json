@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68329515723",
+    "project_id": "codescale-c58e4",
+    "storage_bucket": "codescale-c58e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68329515723:android:9213bc8619e90cd9eec94e",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRkpqKgDen91wGaju-f1mAhLFEaSpM20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
